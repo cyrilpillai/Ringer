@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ringer</string>
+    <string name="volume_header_title">Volume</string>
+    <string name="volume_ring_title">Ring</string>
+    <string name="volume_alarm_title">Alarm</string>
+    <string name="volume_music_title">Media</string>
+    <string name="mode_header_title">Mode</string>
+    <string name="mode_normal_title">Normal</string>
+    <string name="mode_vibrate_title">Vibrate</string>
+    <string name="mode_silent_title">Silent</string>
+    <string name="widget_media_volume_title">Media Volume</string>
+    <string name="widget_mode_title">Mode</string>
+</resources>
